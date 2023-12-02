@@ -1,0 +1,33 @@
+body {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-container :nth-child(2){
+   
+    float: left;
+    width: 50%
+}
+.form-container :nth-child(3){
+    overflow:auto;
+    width: 50 %
+}
+
+.form-container.h4{
+    display: inline-block;
+}
+
+
+textarea {
+    resize: none;
+}
+img {
+    
+    margin:auto;
+    width:81%;
+    height:80%;
+    border:5px;
+    
+}
+
